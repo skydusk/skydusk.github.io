@@ -5,8 +5,6 @@ date:   2015-08-27 16:08:03
 categories: 
 ---
 
-#  Migrating a Synology volume from SHR to SHR2 #
-
 When I first setup my NAS I opted for SHR (Synology Hybrid Raid) with 1 disk redundancy. Since then I’ve seen storage prices tumble, and with the future of big storage looking so promising (Samsung 16TB SSD anyone?) I realized SHR2 with 2 disk redundancy would have been a better option, after all the only constant with hard drives is that they are bound to fail sooner or later. Unfortunatley whatever you select when a volume is created cannot be changed, so the following is the next best solution when you want to migrate a volume to a different type of RAID
 
 > **Old SHR setup:**
