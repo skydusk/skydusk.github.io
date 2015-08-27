@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Testing"
+date:   2015-08-27 16:08:03
+categories: 
+---
+
+## testing jekyll site
+blog post
+
+* Replace the image files ```favicon.png``` and ```sharer.png``` with images of your own.
+
