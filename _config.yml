@@ -19,7 +19,7 @@ description: just another personal blog
 keywords: windows, storage, crashplan, synology, backups, itunes
 
 ##define this for disqus comment support
-#disqus: skydusk
+disqus: skydusk
 
 ##set this to enable google analytics
 #ga_id: UA-66844898-1
