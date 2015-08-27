@@ -1,6 +1,6 @@
 ##The website title
 name: skydusk
-url: http://skydusk.github.io
+url: "http://skydusk.github.io"
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
