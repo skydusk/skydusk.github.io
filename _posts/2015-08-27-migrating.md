@@ -34,7 +34,7 @@ My initial plan was to simply format the 3 unused disks and create a new SHR2 vo
 
 Below is the system log as I went through the steps
 
-![](http://i.imgur.com/YVgY3rw.png)
+![](https://raw.githubusercontent.com/skydusk/skydusk.github.io/master/assets/logs.png)
 
 
 
@@ -42,7 +42,7 @@ Below is the system log as I went through the steps
 
 **Crashplan:** Installing this was easy as most of the setup has been done the first time round. There is no need to change anything on the Windows client side either as long as the IP address of the NAS remains static. The only  minor issue is that your data is now located on volume2 instead of volume1, and the Crashplan client will tell you the files are missing. The solution is to add those exact same files and folders you had before to the backup selection as follows:
 
-![](http://i.imgur.com/h7rMkEv.png)
+![](https://raw.githubusercontent.com/skydusk/skydusk.github.io/master/assets/selection.png)
 
 Crashplan will then go through its data deduplication process and realize that its already backed up those files. After synchronizing file and block information the backup will resume, but at a much faster rate where it is just scanning through everything already uploaded. Once the backup is finished, you can remove the old files and folders which were located on volume1 from the selection if you don’t want to see the missing files notices anymore
 

@@ -6,10 +6,37 @@ priority: 1.0
 changefreq: weekly
 lastmod: 2014-09-07T16:31:30+05:30
 ---
-<form action="http://formspree.io/info@skydusk.com">
-  <input type="email" name="_replyto">
-  
-  <textarea name="body"></textarea>
-  
-  <input type="submit" value="Send">
-</form>
+$(function() {
+    $("#contactForm").submit(function(e) {
+      e.preventDefault();
+      $.ajax({
+        url: "//formspree.io/info@skydusk.com", 
+        method: "POST",
+        data: $(this).serialize(),
+        dataType: "json",
+        success: function(data){
+          // Success message
+          $('#success').html("<div class='alert alert-success'>");
+          $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
+              .append("</button>");
+          $('#success > .alert-success')
+              .append("<strong>Your message has been sent. </strong>");
+          $('#success > .alert-success')
+              .append('</div>');
+
+          //clear all fields
+          $('#contactForm').trigger("reset");
+        },
+        error: function(){
+          // Fail message
+          $('#success').html("<div class='alert alert-danger'>");
+          $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
+              .append("</button>");
+          $('#success > .alert-danger').append("<strong>I'm sorry but it seems that my mail server is not responding. Please try again later!");
+          $('#success > .alert-danger').append('</div>');
+          //clear all fields
+          $('#contactForm').trigger("reset");
+        }
+      });
+    });
+});
