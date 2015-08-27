@@ -1,6 +1,6 @@
 ##The website title
 name: skydusk
-url: http://skydusk.github.io
+url: www.skydusk.com
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
@@ -22,8 +22,8 @@ keywords: windows, storage, crashplan, synology, backups, itunes
 disqus: skydusk
 
 ##set this to enable google analytics
-#ga_id: UA-66844898-1
-#ga_domain: http://skydusk.github.io
+ga_id: UA-66844898-1
+ga_domain: www.skydusk.com
 
 ##Some commonly used links
 links:
