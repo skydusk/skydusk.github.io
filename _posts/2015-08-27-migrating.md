@@ -7,12 +7,12 @@ categories:
 <br>
 When I first setup my NAS I opted for SHR [(Synology Hybrid Raid)](https://www.synology.com/en-us/knowledgebase/tutorials/492) with 1 disk redundancy. Since then I’ve seen storage prices tumble, and with the future of big storage looking so promising (Samsung 16TB SSD anyone?) I realized SHR2 with 2 disk redundancy would have been a better option, after all the only constant with hard drives is that they are bound to fail sooner or later. Unfortunatley whatever you select when a volume is created cannot be changed, so the following is the next best solution when you want to migrate a volume to a different type of RAID
 
-> **Old SHR setup:**
+> `Old SHR setup`
 > 
 > - 5x 6TB drives (~24TB storage with only ~1.7TB free)
 > - 3x Uninitialized 6TB disks on standby
 > 
-> **New SHR2 setup:**
+> `New SHR2 setup`
 > 
 > - 8x 6TB drives (~36TB storage with 15.2TB free)
 
