@@ -7,9 +7,9 @@ categories:
 <br>
 For as long as I can remember, I have always wanted a website of my own. And now I have one, awesome.
 
-I think the wanting began back during the early 00's when I was just coming online, flash websites were all the rage back then, but the idea of a personal website with a unique domain seemed prestigious in a way. But not having the knowledge or money to create one back then I recall trying all sorts of short cuts, including of course free hosting providers (freewebs anyone?). None of these managed to scratch the itch I had of wanting my *own* website though, a .freewebs domain with ads and banners just wasn't good enough.
+I think the wanting began back during the early 00's when I was first coming online, flash websites were all the rage back then, and the idea of a personal website with its own domain seemed prestigious in a way. But not having the knowledge or money to create one back then I recall trying all sorts of short cuts, including of course free hosting providers (freewebs anyone?). None of thosee managed to scratch the itch I had of wanting my *own* website though, a .freewebs domain with ads and banners just wasn't good enough.
 
-15 years later through trial, error, tumblr, blogger, wordpress and moonfruit and here we are. I finally have my own website that I am happy with. It's a simple jekyll blog hosted at github, the Bitwiser theme appealed to me immediately with its simplicity so I opted for it rather than the standard white look. Domain hosting is done by Google Domains.
+15 years later through trial, error, tumblr, blogger, wordpress and moonfruit and here I am. I finally have my own website that I am happy with. It's a simple jekyll blog hosted at github, the Bitwiser theme appealed to me immediately with its simplicity so I opted for it rather than the standard white look. Domain hosting is done by Google Domains. It's not much, but it's *mine*.
 
 That's the origin story of this blog done then. Until next time.
 
