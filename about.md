@@ -2,9 +2,9 @@
 layout: page
 title: About
 sitemap:
-    priority: 1.0
-    changefreq: weekly
-    lastmod: 8/28/2015 2:01:14 AM
+priority: 1.0
+changefreq: weekly
+lastmod: 8/28/2015 10:14:47 AM 
 ---
 <h2>About</h2>
 Just another personal blog.
