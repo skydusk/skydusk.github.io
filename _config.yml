@@ -1,6 +1,6 @@
 ##The website title
 name: skydusk
-url: www.skydusk.com
+url: http://skydusk.com
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
