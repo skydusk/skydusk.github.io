@@ -4,7 +4,7 @@ title:  "A website of my own"
 date:   2015-08-27 16:08:03
 categories: 
 ---
-
+<br>
 For as long as I can remember, I have always wanted a website of my own. And now I have one, awesome.
 
 I think the wanting began back during the early 00's when I was just coming online, flash websites were all the rage back then, but the idea of a personal website with a unique domain seemed prestigious in a way. But not having the knowledge or money to create one back then I recall trying all sorts of short cuts, including of course free hosting providers (freewebs anyone?). None of these managed to scratch the itch I had of wanting my *own* website though, a .freewebs domain with ads and banners just wasn't good enough.
