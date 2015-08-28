@@ -10,3 +10,5 @@ sitemap:
 Just another personal blog.
 
 `Dusk is the darkest stage of twilight in the evening`
+
+![](https://raw.githubusercontent.com/skydusk/skydusk.github.io/master/assets/dusk.jpg)
