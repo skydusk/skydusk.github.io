@@ -4,7 +4,7 @@ title: About
 sitemap:
 priority: 1.0
 changefreq: weekly
-lastmod: 8/28/2015 10:14:47 AM 
+lastmod: 2015-08-29T12:49:30-05:00
 ---
 <h2>About</h2>
 Just another personal blog.
