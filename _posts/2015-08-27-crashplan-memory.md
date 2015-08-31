@@ -13,7 +13,7 @@ Recently my Crashplan started acting up and did not want to backup anything (qui
 
 If your log looks something like the above then its likely Crashplan needs more memory allocated to it (this is especially necessary if your backup consists of several large files and spans a few terabytes or more).
 
-Depending on how much memory you have available, you need to change `1024` to `2048` in the following places (a larger value of `4096` did not work so I settled for `2048`. You can edit these files by SSHing into your NAS using [WinSCP](https://winscp.net/eng/index.php). 
+Depending on how much memory you have available, you need to change `1024` to `2048` in the following places (a larger value of `4096` did not work so I settled for `2048`). You can edit these files by SSHing into your NAS using [WinSCP](https://winscp.net/eng/index.php). 
 
 Ensure the Crashplan service is stopped before doing this.
 
