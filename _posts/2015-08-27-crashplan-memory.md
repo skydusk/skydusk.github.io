@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Solve Crashplan stopping and starting on Synology NAS"
+title:  "Solve Crashplan stopping and starting problems on a Synology NAS"
 date:   2015-08-31 15:19:03
 categories: 
 ---
