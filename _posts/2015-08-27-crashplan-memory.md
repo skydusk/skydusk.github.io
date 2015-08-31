@@ -9,6 +9,8 @@ My headless Crashplan installation has been running smoothly for almost a year n
 
 Recently my Crashplan started acting up and did not want to backup anything (quite a problem when you're only 50% of the way through the initial backup). The log showed the service constantly stopping and starting, and I was not able to find the solution as easily this time, so I thought it might be worth posting here on the off chance it could help somebody out.
 
+![](https://raw.githubusercontent.com/skydusk/skydusk.github.io/master/assets/stop%20start%20log.png)
+
 If your log looks something like the above then its likely Crashplan needs more memory allocated to it (this is especially necessary if your backup consists of several large files and spans a few terabytes or more).
 
 Depending on how much memory you have available, you need to change `1024` to `2048` in the following places (a larger value of `4096` did not work so I settled for `2048`. You can edit these files by SSHing into your NAS using [WinSCP](https://winscp.net/eng/index.php). 
