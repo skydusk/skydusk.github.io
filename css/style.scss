@@ -253,9 +253,6 @@ a {
 	}
 }
 
-table, th, td {
-   border: 1px solid black;
-}
 
 code{
 	background-color: #dbdbdb;
@@ -332,6 +329,10 @@ article{
 		margin: 0px;
 		border: none;
 	}
+}
+
+table, th, td {
+   border: 1px solid black;
 }
 
 .tags {
