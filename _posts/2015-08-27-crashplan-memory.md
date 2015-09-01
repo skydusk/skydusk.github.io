@@ -21,7 +21,7 @@ Ensure the Crashplan service is stopped before doing this.
 
 Restart the Crashplan package for the changes to take effect, and the backup should resume normally.
 
-The above fix is recommended by [Code42 themselves](http://support.code42.com/CrashPlan/Latest/Troubleshooting/CrashPlan_Closes_Unexpectedly) as a solution if Crashplan repeatedly starts and stops. In addition, they also have recommended values depending on the size of your backup.
+The above fix is recommended by [Code42 themselves](http://support.code42.com/CrashPlan/Latest/Troubleshooting/CrashPlan_Closes_Unexpectedly) as a solution if Crashplan repeatedly starts and stops. In addition, they also recommended values depending on the size of your backup.
 
 |  Backup Selection Size | Recommended Memory Allocation (MB)  |
 |---|---|
