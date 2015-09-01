@@ -44,6 +44,6 @@ The above fix is recommended by [Code42 themselves](http://support.code42.com/Cr
 
 ## Worthwhile places to bookmark ##
 
-- **[pcloadletter.co.uk](http://pcloadletter.co.uk/2012/01/30/crashplan-syno-package/)** - patters is the creator of the Crashplan package and the comments section is helpful with how to solve various problems
+- **[pcloadletter.co.uk](http://pcloadletter.co.uk/2012/01/30/crashplan-syno-package/)** - patters is the creator of the Crashplan package so this is the best resource already, but the comments section is helpful too on how to solve various problems
 - **[chrisnelson.ca](http://chrisnelson.ca/?s=crashplan&searchsubmit=)**- chris usually has a workaround posted whenever Crashplan breaks
 - **[forums.synology.com](https://forum.synology.com/enu/)**- there is bound to be a Crashplan topic with someone experiencing the same problems, and if you're lucky a solution might be present
