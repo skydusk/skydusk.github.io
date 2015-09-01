@@ -23,6 +23,16 @@ Restart the Crashplan package for the changes to take effect, and the backup sho
 
 The above fix is recommended by [Code42 themselves](http://support.code42.com/CrashPlan/Latest/Troubleshooting/CrashPlan_Closes_Unexpectedly) as a solution if Crashplan repeatedly starts and stops. In addition, they also recommended values depending on the size of your backup.
 
+|----------------+----------------+
+| Backup Selection Size       | Recommended Memory Allocation (MB)      |
+|----------------+----------------+
+| Up to 1 TB or up to 1 million files  | 1024 (default)|
+| 1.5 TB or 1.5 million files | 1536 |
+| 2 TB or 2 million files | 2048 |
+| 2.5 TB or 2.5 million files  | 2560 |
+| 3 TB or 3 million files | 3072 |
+|----------------+----------------+
+
 
 |  Backup Selection Size | Recommended Memory Allocation (MB)  |
 |---|---|
