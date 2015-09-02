@@ -31,8 +31,6 @@ The above fix is recommended by [Code42 themselves](http://support.code42.com/Cr
 | 2.5 TB or 2.5 million files | 2560 |
 | 3 TB or 3 million files | 3072 |
 
-![](https://raw.githubusercontent.com/skydusk/skydusk.github.io/master/assets/table.png)
-
 
 ## Worthwhile places to bookmark ##
 
