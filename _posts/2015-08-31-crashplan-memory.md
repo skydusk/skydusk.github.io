@@ -4,20 +4,20 @@ title:  "Solve Crashplan stopping and starting problems on a Synology NAS"
 date:   2015-08-31 15:19:03
 categories: 
 ---
-| First Header  | Second Header |
+|  First Header  |  Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|  Content Cell  |  Content Cell  |
+|  Content Cell  |  Content Cell  |
 
-First Header  | Second Header
+  First Header    |  Second Header  
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Content Cell  |  Content Cell    
+Content Cell  |  Content Cell    
 
-| Name | Description          |
+|  Name | Description           |
 | ------------- | ----------- |
-| Help      | Display the help window.|
-| Close     | Closes a window     |
+|  Help      |  Display the help window.|
+|  Close     |  Closes a window     |
 
 
 My headless Crashplan installation has been running smoothly for almost a year now, quietly working in the background to backup everything on my NAS to the Crashplan servers. There have been a couple of bumps in the road (usually when Code42 push out an update package or when Synology updates the DSM software), but solutions are figured out very quickly by some in the community, before an official fix is released to get everything back on track again.
