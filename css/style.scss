@@ -339,6 +339,13 @@ th, td {
   border: 1px solid #ccc;
 }
 
+table tr:nth-child(even) td {
+    background-color: #e8ecee
+}
+table tr:nth-child(odd) td {
+    background-color: #fffbae;
+}
+
 .tags {
 	font-size: 0.7em;
 	padding: 4px 0px;
