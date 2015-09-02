@@ -4,7 +4,8 @@ title:  "Fix Kodi's (aka XBMC's) exit hang problem"
 date:   2015-09-02 20:23:03
 categories: 
 ---
-![](https://raw.githubusercontent.com/skydusk/skydusk.github.io/master/assets/kodiexit.png)
+<br>
+![](https://raw.githubusercontent.com/skydusk/skydusk.github.io/master/assets/kodi-logo-600x337.png)
 
 For a while now Kodi has not been shutting down properly for me. This problem arose after upgrading XBMC to Kodi and installing several live TV add-ons. I haven't been able to locate what's causing Kodi to hang upon exit, and frankly can't be bothered with disabling add-ons trying to pinpoint the problematic one, so here is a quick and dirty fix that allows for Kodi to shut down clean and fast.
 
