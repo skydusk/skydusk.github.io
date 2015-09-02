@@ -9,9 +9,9 @@ For a while now Kodi has not been shutting down properly for me. This problem ar
 1. Navigate to your Kodi add-ons installation folder `C:\Program Files x86\Kodi\addons`
 2. Find the folder for the skin you are using (default skin is Confluence) located in `skin.confluence`
 3. In subfolder `720p` open the `DialogButtonMenu.xml` file and search for the word `Quit`
-4. Change the line as follows
+4. Change the line `<onclick>Quit()</onclick>` to 
 <br>
-`<onclick>Quit()</onclick>` to `<onclick>System.Exec ("taskkill.exe /im Kodi.exe /f")</onclick>`
+`<onclick>System.Exec ("taskkill.exe /im Kodi.exe /f")</onclick>`
 
 Kodi should now exit almost instantly as it's supposed to (and did before). Although this doesn't correct the underlying issue causing Kodi to hang after exit, it solves the problem for the time being, and thats good enough for me!
 
