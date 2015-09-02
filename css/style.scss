@@ -331,8 +331,12 @@ article{
 	}
 }
 
-table, th, td {
-   border: 1px solid black;
+table {
+  margin: 10px 0px;
+}
+th, td {
+  padding: 10px;
+  border: 1px solid #ccc;
 }
 
 .tags {
