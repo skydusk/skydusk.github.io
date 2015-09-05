@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to solve Crashplan's restart problems on a Synology NASS"
+title:  "How to solve Crashplan's restart problems on a Synology NAS"
 date:   2015-08-31 15:19:03
 categories: 
 ---
