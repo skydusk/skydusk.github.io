@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Forget about Acronis' True Image Consumer Backup - Take a look at their Business Backup"
+title:  "Forget Acronis' True Image Consumer Products"
 date:   2015-09-05 02:04:03
 categories: 
 ---
