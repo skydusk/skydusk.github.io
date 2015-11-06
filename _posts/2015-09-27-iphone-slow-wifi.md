@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Slow Wi-Fi on iPhone 6/6S or iOS9? It's probably your router."
+title:  "Slow Wi-Fi on iPhone 6/6S or iOS9? It's probably your router"
 date:   2015-09-27 22:51:03
 categories: 
 ---
