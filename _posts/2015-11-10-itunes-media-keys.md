@@ -12,7 +12,7 @@ One feature I love is using the media keys on my keyboard to navigate through mu
 
 1. In Chrome head to `more tools > extensions` and scroll to the bottom for `keyboard shortcuts`
 2. Ensure no extensions have hijacked your media keys (in my case it was Google Play Music)
-3. In iTunes go to `edit > preferences > advanced` and uncheck `enable full keyboard navigation` 
+3. In iTunes go to `edit > preferences > advanced` & uncheck `enable full keyboard navigation` 
 4. Go back and recheck the `enable full keyboard navigation` box and then close iTunes
 5. Ensure the program is not set to 'run as an administrator' and then relaunch iTunes
 
