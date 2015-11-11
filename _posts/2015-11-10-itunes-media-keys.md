@@ -8,7 +8,7 @@ iTunes has been my music player of choice for a long time now. I've never found 
 
 One feature I love is using the media keys on my keyboard to navigate through music, this works when iTunes is in the background and allows for playing, pausing and skipping songs with one button press without even bringing up the iTunes window. However, since iTunes 12 this nifty feature stopped working altogether, I initially layed the blame at my keyboard and the SetPoint software, but it turns out the issue was with Google.
 
-How to restore media key functionality for iTunes 12
+**How to restore media key functionality for iTunes 12**
 
 1. In Chrome head to `more tools > extensions` and scroll to the bottom for `keyboard shortcuts`
 2. Ensure no extensions have hijacked your media keys (in my case it was Google Play Music)
